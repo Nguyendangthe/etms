@@ -285,7 +285,8 @@ __webpack_require__.r(__webpack_exports__);
 // The list of file replacements can be found in `angular.json`.
 var environment = {
     production: false,
-    API_URL: 'https://localhost:44360',
+    // API_URL: 'https://localhost:44360',
+    API_URL: 'http://test.api-etms.itlvn.com',
     // http://test.api-etms.itlvn.com/SystemManagementAPI/v1.0
     // WEB_API_URL:'https://localhost:44360/api/v1/', // local
     WEB_API_URL: 'http://test.api-etms.itlvn.com/SystemManagementAPI/v1.0/',
